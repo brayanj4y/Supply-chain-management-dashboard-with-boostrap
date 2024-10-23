@@ -21,6 +21,7 @@ A powerful and intuitive dashboard designed to help logistics teams and managers
 
 To run this project, you will need:
 
-- XAMPP (PHP, MySQL, Apache)
+- XAMPP (PHP, MySQL, Apache) 
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
+- Database Name: flowsync

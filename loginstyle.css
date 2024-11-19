@@ -1,0 +1,122 @@
+body {
+	background: #FFFFFF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	font-family: "Nunito", sans-serif;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+form {
+	width: 400px;
+	padding: 0;
+	background: none;
+	box-shadow: none;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 30px;
+	color: #2A5298;
+	font-size: 1.8rem;
+	font-weight: 600;
+}
+
+input {
+	display: block;
+	width: 100%;
+	padding: 12px;
+	margin: 15px 0;
+	border: 1px solid #CCC;
+	font-size: 14px;
+	background: #F9F9F9;
+	color: #333;
+	transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+input:focus {
+	border-color: #2A5298;
+	background: #FFF;
+	outline: none;
+	box-shadow: 0 0 5px rgba(42, 82, 152, 0.2);
+}
+
+label {
+	color: #555;
+	font-size: 16px;
+	font-weight: 500;
+	display: block;
+	margin-bottom: 5px;
+}
+
+button {
+	display: block;
+	width: 100%;
+	background: #2A5298;
+	padding: 12px;
+	color: #FFFFFF;
+	border: none;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+	transition: background 0.3s ease, transform 0.2s ease;
+	margin-top: 15px;
+}
+
+button:hover {
+	background: #1E3C72;
+	transform: translateY(-2px);
+}
+
+button:active {
+	transform: translateY(0);
+}
+
+.error {
+	background: #FDEDEE;
+	color: #D9534F;
+	padding: 12px;
+	width: 100%;
+	margin: 15px 0;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.success {
+	background: #E7F7E7;
+	color: #28A745;
+	padding: 12px;
+	width: 100%;
+	margin: 15px 0;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+h1 {
+	text-align: center;
+	color: #2A5298;
+	font-size: 2.2rem;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.ca {
+	font-size: 14px;
+	text-align: center;
+	color: #2A5298;
+	text-decoration: none;
+	transition: color 0.3s ease;
+	margin-top: 15px;
+	display: block;
+}
+
+.ca:hover {
+	color: #1E3C72;
+	text-decoration: underline;
+}

@@ -42,8 +42,7 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/brayanj4y/Supply-chain-dashboard-with-boostrap.git
    cd supply-chain-dashboard-with-boostrap
-
-   ## Usage
+   
 ### Login:
 Access the system with role-based credentials.
 
@@ -110,12 +109,6 @@ Contributions are always welcome! To contribute to this project, follow these st
    - Select your branch and provide a clear title and description of your changes.
    - Submit the PR for review.
 
-8. **Collaborate on the PR**  
-   - Address feedback or requested changes from reviewers if necessary.
-
-### 🚨 Guidelines
-- Ensure your changes pass any existing tests or include new tests if required.
-- Document any new features or changes in the project's documentation.
    
 ## 📞 Contact the Developer
 

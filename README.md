@@ -24,14 +24,14 @@ This system is built to enhance efficiency, reduce costs, and improve decision-m
 ---
 
 ## Technology Stack
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap (or other UI frameworks as needed).
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap.
 - **Backend**: PHP
 - **Database**: MySQL
 - **Tools and Libraries**:
   - Ajax for seamless data updates.
   - Chart.js or other visualization tools for analytics.
 - **Development Environment**: 
-  - Visual Studio Code, XAMPP, or WAMP Server for local testing.
+  - Visual Studio Code, WAMP Server for local testing.
 
 ---
 
@@ -116,9 +116,6 @@ Contributions are always welcome! To contribute to this project, follow these st
 ### 🚨 Guidelines
 - Ensure your changes pass any existing tests or include new tests if required.
 - Document any new features or changes in the project's documentation.
-
-Thank you for helping improve this project! Your contributions are appreciated. 🎉
-
    
 ## 📞 Contact the Developer
 
@@ -129,4 +126,5 @@ Have questions or suggestions? Feel free to reach out!
 - **LinkedIn:** [linkedin.com/in/brayanj4y](https://linkedin.com/in/brayanj4y)
 
 I’d love to hear your feedback and ideas. Let's build something great together!
+Thank you for helping improve this project! Your contributions are appreciated. 🎉
 
